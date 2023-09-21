@@ -31,7 +31,7 @@ Some of the key findings from the analysis include:
 
 ### Instructions
 
-To explore the analysis and findings, open the `project_notebook.ipynb` Jupyter Notebook in this repository. The notebook contains both code and narrative explanations.
+To explore the analysis and findings, open the `Python.ipynb` Jupyter Notebook in this repository. The notebook contains both code and narrative explanations.
 
 ### Requirements
 
